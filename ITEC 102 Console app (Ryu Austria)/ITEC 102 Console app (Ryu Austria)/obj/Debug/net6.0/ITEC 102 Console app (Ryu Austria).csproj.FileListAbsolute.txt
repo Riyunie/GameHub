@@ -1,0 +1,14 @@
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\bin\Debug\net6.0\ITEC 102 Console app (Ryu Austria).exe
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\bin\Debug\net6.0\ITEC 102 Console app (Ryu Austria).deps.json
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\bin\Debug\net6.0\ITEC 102 Console app (Ryu Austria).runtimeconfig.json
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\bin\Debug\net6.0\ITEC 102 Console app (Ryu Austria).dll
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\bin\Debug\net6.0\ITEC 102 Console app (Ryu Austria).pdb
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\ITEC 102 Console app (Ryu Austria).GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\ITEC 102 Console app (Ryu Austria).AssemblyInfoInputs.cache
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\ITEC 102 Console app (Ryu Austria).AssemblyInfo.cs
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\ITEC 102 Console app (Ryu Austria).csproj.CoreCompileInputs.cache
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\ITEC 102 Console app (Ryu Austria).dll
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\refint\ITEC 102 Console app (Ryu Austria).dll
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\ITEC 102 Console app (Ryu Austria).pdb
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\ITEC 102 Console app (Ryu Austria).genruntimeconfig.cache
+C:\Code\ITEC 102 Console app (Ryu Austria)\ITEC 102 Console app (Ryu Austria)\obj\Debug\net6.0\ref\ITEC 102 Console app (Ryu Austria).dll
